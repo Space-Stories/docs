@@ -4,7 +4,7 @@ language = "ru"
 multilingual = false
 src = "src"
 title = "Space Stories Development Wiki"
-description = "Учебное пособие и справочник по всем проектам Space Stories & doublechest"
+description = "Учебное пособие и справочник по всем проектам Space Stories"
 
 [preprocessor.mermaid]
 
