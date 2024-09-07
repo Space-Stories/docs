@@ -1,10 +1,10 @@
 [book]
-authors = ["Space Wizards Contributors"]
-language = "en"
+authors = ["Space Stories"]
+language = "ru"
 multilingual = false
 src = "src"
-title = "Space Wizards Development Wiki"
-description = "Tutorial & reference for all Space Wizards Federation projects, including the Robust Toolbox engine and its flagship open source game, Space Station 14."
+title = "Space Stories Development Wiki"
+description = "Учебное пособие и справочник по всем проектам Space Stories & doublechest"
 
 [preprocessor.mermaid]
 
@@ -23,8 +23,8 @@ additional-css = ['theme/mdbook-admonish.css', 'theme/ss14.css', 'theme/nav-styl
 default-theme = "navy"
 preferred-dark-theme = "navy"
 
-git-repository-url = "https://github.com/space-wizards/space-station-14"
-edit-url-template = "https://github.com/space-wizards/docs/blob/master/{path}"
+git-repository-url = "https://github.com/Space-Stories/space-station-14"
+edit-url-template = "https://github.com/Space-Stories/docs/blob/master/{path}"
 
 mathjax-support = true
 curly-quotes = true
